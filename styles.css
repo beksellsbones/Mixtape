@@ -1,0 +1,13 @@
+    #body{background-color: rgb(102, 153, 204);
+      font-family: 'Sue Ellen Francisco', cursive;
+      color: darkblue;
+      text-align: center;
+      margin:auto;
+      display: block;
+    }
+    a{color: white;
+    }
+    a:visited{color: white;
+    }
+    img{width:80%;
+    }
