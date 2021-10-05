@@ -1,7 +1,7 @@
     html{scroll-behavior: smooth;
     }
     #body{background-color: rgb(102, 153, 204);
-      font-family: 'Sue Ellen Francisco', cursive;
+      font-family: 'Sue Ellen Francisco', 'Architects Daughter', cursive;
       color: darkblue;
       text-align: center;
       padding: 5px;
