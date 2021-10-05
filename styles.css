@@ -1,31 +1,37 @@
+    html{scroll-behavior: smooth;
+    }
     #body{background-color: rgb(102, 153, 204);
       font-family: 'Sue Ellen Francisco', cursive;
       color: darkblue;
       text-align: center;
+      padding: 5px;
       margin:auto;
       display: block;
     }
-    p, h1, h2{border: purple 3px solid;
-    }
     a{color: white;
-      border: red 2px solid;
     }
     a:visited{color: white;
-      border: red 2px solid;
     }
-    ol{padding: 2%;
+    h1{text-align: center;
+      font-size: 60px;
+    }
+    h2{text-align: center;
+      font-size: 45px;
+    }
+    p{text-align: center;
+      font-size: 30px;
+    }
+    ol{padding: 5%;
       margin: auto;
-      border: white 1px solid;
       width: 80%;
+      font-size: 45px;
     }
-    li{border-bottom: white 2px solid;
-      padding: 5px;
+    li{padding: 5px;
       width: 90%;
       margin: auto;
+      font-size: 45px;
     }
-    img{width:80%;
-      padding: 2%;
+    img{width:90%;
+      padding: 5%;
       margin: 10px auto;
-      border: lightpink 2px solid;
-      background: white;
     }
